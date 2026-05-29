@@ -168,7 +168,7 @@ This pipeline is the methodological foundation.
 
 ## Contact & Questions
 
-For questions about implementation, data, or methodology, contact: [your email]
+For questions about implementation, data, or methodology, contact: m.pasqualini@tue.nl
 
 ---
 
